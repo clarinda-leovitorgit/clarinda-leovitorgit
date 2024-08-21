@@ -3,7 +3,6 @@
 Veja por aqui:
 - Projetos desenvolvidos na escola com Alura
 - Divulgações dos meus repositórios da minha conta principal
-- Vídeos de programação web
 
 Conheça mais sobre mim:
 
@@ -14,7 +13,3 @@ Conheça mais sobre mim:
 Tecnologias que uso na escola:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-Veja vídeos sobre programação web:
-- ![Sistema de Nav Bar Profissional Responsiva Usando HTML, CSS e JS #1 - Dicas de Web com Léo](https://youtu.be/WvGt-jtuoVo?si=hC4Z3qLqB0-GmDbS)
-- ![Criando a Estrutura Básica e Importando Recursos #2 - Dicas de Web com Léo](https://youtu.be/Yz3GDG2Ch10?si=VHqZKWFOoCDR42BV)
